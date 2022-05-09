@@ -1,0 +1,77 @@
+body {
+  background-color: lightskyblue;
+   font-family: "comic sans", sans-serif;
+  color: darkorange;
+  
+}
+
+
+h3 {
+  color: blue;
+  font-family: "Times New Roman", serif;
+}
+
+
+nav ul {
+    background-color: tomato;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+nav ul {
+  background-color: tomato;
+  border-style: solid;
+  border-color: lightblue;
+  border-width: 4px;
+  padding: 15px;
+  border-radius: 75px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: tomato;
+}
+th, td {
+  vertical-align: right;
+  padding: 10px;
+  text-align: left;
+}
+th {
+  color: darkblue;
+}
+td {
+  color: skyblue;
+}
+/********************************/
